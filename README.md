@@ -10,34 +10,19 @@
 
 ---
 
-## 🏆 Dự Án & Thành Tựu
+## 💡 Ý Tưởng & Định Hướng
 
-<div align="center">
-  
-<table>
-  <tr>
-    <th style="background: linear-gradient(135deg, #667eea, #764ba2); color: white; padding: 10px; border-radius: 10px;">📌 Dự Án</th>
-    <th style="background: linear-gradient(135deg, #667eea, #764ba2); color: white; padding: 10px; border-radius: 10px;">🚀 Công Nghệ</th>
-  </tr>
-  <tr>
-    <td style="background: #f8f9fa; padding: 10px;">E-Commerce Platform</td>
-    <td style="background: #f8f9fa; padding: 10px;">Laravel, Vue.js, MySQL, TailwindCSS</td>
-  </tr>
-  <tr>
-    <td style="background: #ffffff; padding: 10px;">CMS Blogging</td>
-    <td style="background: #ffffff; padding: 10px;">PHP, Laravel, Vue.js, PostgreSQL</td>
-  </tr>
-  <tr>
-    <td style="background: #f8f9fa; padding: 10px;">Quản lý khách hàng (CRM)</td>
-    <td style="background: #f8f9fa; padding: 10px;">Laravel, PHPMyAdmin, Bootstrap</td>
-  </tr>
-  <tr>
-    <td style="background: #ffffff; padding: 10px;">Ứng dụng đặt hàng</td>
-    <td style="background: #ffffff; padding: 10px;">Node.js, Vue.js, MongoDB</td>
-  </tr>
-</table>
+🌟 Tôi luôn tìm kiếm và phát triển những dự án thú vị để mở rộng kiến thức và kỹ năng. Dưới đây là một số ý tưởng tôi đang nghiên cứu:
 
-</div>
+### 🔥 Ứng dụng & Giải pháp
+- **🌍 Nền tảng học trực tuyến**: Hỗ trợ giảng dạy & học tập với video, quiz, và AI đánh giá năng lực.
+- **📈 Hệ thống quản lý tài chính cá nhân**: Giúp theo dõi chi tiêu, đầu tư và tiết kiệm hiệu quả.
+- **🚀 Website cá nhân động**: Tự động cập nhật thông tin, dự án & bài viết mới nhất.
+
+### 🎯 Công Nghệ Tôi Đang Nghiên Cứu
+- 🧠 **Trí tuệ nhân tạo**: Tích hợp AI vào ứng dụng web (Chatbots, NLP).
+- ☁️ **Điện toán đám mây**: AWS, Firebase, CI/CD pipelines.
+- ⚡ **Hiệu suất & tối ưu hóa web**: Tăng tốc tải trang, tối ưu UX/UI.
 
 ---
 
@@ -58,21 +43,22 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PhpMyAdmin](https://img.shields.io/badge/PhpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ### 🚀 Công Cụ & DevOps  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 </div>
 
 ---
 
 ## 🎭 Về Tôi
-- 💻 **Lập trình viên Full Stack** yêu thích sáng tạo
-- 🌱 **Không ngừng học hỏi** và nâng cao kỹ năng
-- 🎯 **Mục tiêu**: Trở thành chuyên gia phát triển phần mềm  
+- 💻 **Lập trình viên Full Stack** yêu thích sáng tạo.
+- 🌱 **Không ngừng học hỏi** và nâng cao kỹ năng.
+- 🎯 **Mục tiêu**: Trở thành chuyên gia phát triển phần mềm & đóng góp vào cộng đồng mã nguồn mở.
 
 ---
 
