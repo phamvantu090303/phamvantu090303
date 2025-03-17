@@ -1,76 +1,65 @@
-<div align="center">
-  <h1>🚀 Chào mừng đến với GitHub của Phạm Văn Tư 🌟</h1>
-</div>
+<h1 align="center">🚀 Hey, I'm Phạm Văn Tư</h1>
+<h3 align="center">Full Stack Developer | Web Enthusiast | Passionate Learner</h3>
 
-<div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Web+Enthusiast;Passionate+Learner)](https://git.io/typing-svg)
-
-</div>
-
----
-
-## 💡 Ý Tưởng & Định Hướng
-
-🌟 Tôi luôn tìm kiếm và phát triển những dự án thú vị để mở rộng kiến thức và kỹ năng. Dưới đây là một số ý tưởng tôi đang nghiên cứu:
-
-### 🔥 Ứng dụng & Giải pháp
-- **🌍 Nền tảng học trực tuyến**: Hỗ trợ giảng dạy & học tập với video, quiz, và AI đánh giá năng lực.
-- **📈 Hệ thống quản lý tài chính cá nhân**: Giúp theo dõi chi tiêu, đầu tư và tiết kiệm hiệu quả.
-- **🚀 Website cá nhân động**: Tự động cập nhật thông tin, dự án & bài viết mới nhất.
-
-### 🎯 Công Nghệ Tôi Đang Nghiên Cứu
-- 🧠 **Trí tuệ nhân tạo**: Tích hợp AI vào ứng dụng web (Chatbots, NLP).
-- ☁️ **Điện toán đám mây**: AWS, Firebase, CI/CD pipelines.
-- ⚡ **Hiệu suất & tối ưu hóa web**: Tăng tốc tải trang, tối ưu UX/UI.
+<p align="center">
+  <a href="https://personal-portfolio-eldev1.vercel.app/"><strong>🌍 My Portfolio</strong></a> |
+  <a href="mailto:phamvantu090303@gmail.com"><strong>📧 Email Me</strong></a> |
+  <a href="https://www.linkedin.com/in/deviamaolo/"><strong>🔗 LinkedIn</strong></a>
+</p>
 
 ---
 
-## 🛠️ Công Nghệ Sử Dụng
+## 🛠 Tech Stack
 
-<div align="center">
+### 💻 Frontend
+![HTML5](https://img.shields.io/badge/-HTML5-FFFFFF?style=flat&logo=HTML5)
+![CSS3](https://img.shields.io/badge/-CSS3-FFFFFF?style=flat&logo=CSS3&logoColor=1572B6)
+![SCSS](https://img.shields.io/badge/-SCSS-FFFFFF?style=flat&logo=sass)
+![JavaScript](https://img.shields.io/badge/-JavaScript-FFFFFF?style=flat&logo=javascript)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-FFFFFF?style=flat&logo=bootstrap&logoColor=563D7C)
+![React](https://img.shields.io/badge/-React-FFFFFF?style=flat&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-FFFFFF?style=flat&logo=next.js&logoColor=000000)
 
-### ⚡ Công Nghệ Chính  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+### 🖥 Backend
+![Node.js](https://img.shields.io/badge/-Node.js-FFFFFF?style=flat&logo=node.js)
+![Express.js](https://img.shields.io/badge/-Express.js-FFFFFF?style=flat&logo=express&logoColor=000000)
+![NestJS](https://img.shields.io/badge/-NestJS-FFFFFF?style=flat&logo=nestjs&logoColor=E0234E)
+![Laravel](https://img.shields.io/badge/-Laravel-FFFFFF?style=flat&logo=laravel&logoColor=FF2D20)
 
-### 🔧 Hệ Cơ Sở Dữ Liệu  
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+### 🛢 Database
+![MySQL](https://img.shields.io/badge/-MySQL-FFFFFF?style=flat&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-FFFFFF?style=flat&logo=PostgreSQL)
+![MongoDB](https://img.shields.io/badge/-MongoDB-FFFFFF?style=flat&logo=mongodb)
+![Firebase](https://img.shields.io/badge/-Firebase-FFFFFF?style=flat&logo=firebase)
 
-### 🚀 Công Cụ & DevOps  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-</div>
-
----
-
-## 🎭 Về Tôi
-- 💻 **Lập trình viên Full Stack** yêu thích sáng tạo.
-- 🌱 **Không ngừng học hỏi** và nâng cao kỹ năng.
-- 🎯 **Mục tiêu**: Trở thành chuyên gia phát triển phần mềm & đóng góp vào cộng đồng mã nguồn mở.
+### 🛠 DevOps & Tools
+![Git](https://img.shields.io/badge/-Git-FFFFFF?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-FFFFFF?style=flat&logo=github)
+![Docker](https://img.shields.io/badge/-Docker-FFFFFF?style=flat&logo=docker)
+![AWS](https://img.shields.io/badge/-AWS-FFFFFF?style=flat&logo=amazon-aws&logoColor=FF9900)
+![CI/CD](https://img.shields.io/badge/-CI/CD-FFFFFF?style=flat&logo=gitlab-ci-cd)
 
 ---
 
-## 📫 Kết Nối Với Tôi!
-<div align="center">
+## 📊 GitHub Stats
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/phamvantu090303)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/)
-
-</div>
+<p align="center">
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=phamvantu090303&&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=phamvantu090303&show_icons=true&locale=en&theme=radical" alt="Top Languages" />
+</p>
 
 ---
 
-⭐️ *Cảm ơn bạn đã ghé thăm! Chúc bạn một ngày tốt lành!* 🚀
+## 🌍 Let's Connect!
+
+<p align="center">
+  <a href="https://github.com/phamvantu090303"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/deviamaolo/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:phamvantu090303@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
+
+---
+
+![](https://komarev.com/ghpvc/?username=phamvantu090303&style=for-the-badge&color=e56b6f)
+
+⭐️ *Cảm ơn bạn đã ghé thăm! Chúc bạn một ngày tuyệt vời!* 🚀
