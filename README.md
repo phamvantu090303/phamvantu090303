@@ -11,14 +11,31 @@
 ---
 
 ## 🏆 Dự Án & Thành Tựu
-<div align="center">
 
-| 📌 Dự Án | 🚀 Công Nghệ |
-|----------|--------------|
-| **E-Commerce Platform** | Laravel, Vue.js, MySQL, TailwindCSS |
-| **CMS Blogging** | PHP, Laravel, Vue.js, PostgreSQL |
-| **Quản lý khách hàng (CRM)** | Laravel, PHPMyAdmin, Bootstrap |
-| **Ứng dụng đặt hàng** | Node.js, Vue.js, MongoDB |
+<div align="center">
+  
+<table>
+  <tr>
+    <th style="background: linear-gradient(135deg, #667eea, #764ba2); color: white; padding: 10px; border-radius: 10px;">📌 Dự Án</th>
+    <th style="background: linear-gradient(135deg, #667eea, #764ba2); color: white; padding: 10px; border-radius: 10px;">🚀 Công Nghệ</th>
+  </tr>
+  <tr>
+    <td style="background: #f8f9fa; padding: 10px;">E-Commerce Platform</td>
+    <td style="background: #f8f9fa; padding: 10px;">Laravel, Vue.js, MySQL, TailwindCSS</td>
+  </tr>
+  <tr>
+    <td style="background: #ffffff; padding: 10px;">CMS Blogging</td>
+    <td style="background: #ffffff; padding: 10px;">PHP, Laravel, Vue.js, PostgreSQL</td>
+  </tr>
+  <tr>
+    <td style="background: #f8f9fa; padding: 10px;">Quản lý khách hàng (CRM)</td>
+    <td style="background: #f8f9fa; padding: 10px;">Laravel, PHPMyAdmin, Bootstrap</td>
+  </tr>
+  <tr>
+    <td style="background: #ffffff; padding: 10px;">Ứng dụng đặt hàng</td>
+    <td style="background: #ffffff; padding: 10px;">Node.js, Vue.js, MongoDB</td>
+  </tr>
+</table>
 
 </div>
 
