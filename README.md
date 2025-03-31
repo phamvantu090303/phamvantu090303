@@ -16,15 +16,26 @@
 🚀 Tôi luôn tìm kiếm và phát triển các dự án sáng tạo. Dưới đây là một số ý tưởng tôi đang nghiên cứu:
 
 ### 🔥 Dự án tiềm năng
-- **🌍 Nền tảng học trực tuyến**: Kết hợp AI để cá nhân hóa lộ trình học tập.
-- **📈 Ứng dụng quản lý tài chính cá nhân**: Hỗ trợ lập kế hoạch chi tiêu, tiết kiệm & đầu tư.
-- **🚀 Website cá nhân động**: Tích hợp API cập nhật thông tin tự động.
+Dưới đây là một số dự án tôi đã thực hiện:
 
-### 🎯 Công nghệ & xu hướng quan tâm
-- 🧠 **Trí tuệ nhân tạo (AI & Machine Learning)**: Xây dựng chatbot, AI phân tích dữ liệu.
-- ☁️ **Điện toán đám mây (Cloud & DevOps)**: AWS, Firebase, CI/CD pipelines.
-- ⚡ **Tối ưu hiệu suất web**: Next.js, SSR, tối ưu UX/UI, Progressive Web Apps (PWA).
+🌍 Dự án Web & Ứng dụng
+🌐 SOCIAL-NETWORKING-WEBSITE – Mạng xã hội với TypeScript.
 
+🎟️ Movie-Ticket-Booking-Website – Hệ thống đặt vé xem phim trực tuyến.
+
+💬 chatbot – Chatbot AI hỗ trợ giao tiếp.
+
+🐦 twiter – Mô phỏng nền tảng Twitter đơn giản.
+
+⚡ IoT & Công Nghệ Mới
+🔧 ESP32_IOT – Điều khiển thiết bị IoT với ESP32.
+
+📂 Dự án khác
+🛠️ tro – Dự án thử nghiệm JavaScript.
+
+📝 testne – Ứng dụng TypeScript thử nghiệm.
+
+📚 codedoan – Tổng hợp mã nguồn thực hành.
 ---
 
 ## 🛠️ Công Nghệ Thành Thạo
