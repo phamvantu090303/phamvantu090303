@@ -19,23 +19,16 @@
 Dưới đây là một số dự án tôi đã thực hiện:
 
 🌍 Dự án Web & Ứng dụng
-🌐 SOCIAL-NETWORKING-WEBSITE – Mạng xã hội với TypeScript.
-
-🎟️ Movie-Ticket-Booking-Website – Hệ thống đặt vé xem phim trực tuyến.
-
-💬 chatbot – Chatbot AI hỗ trợ giao tiếp.
-
-🐦 twiter – Mô phỏng nền tảng Twitter đơn giản.
-
-⚡ IoT & Công Nghệ Mới
-🔧 ESP32_IOT – Điều khiển thiết bị IoT với ESP32.
-
+- 🌐 SOCIAL-NETWORKING-WEBSITE – Mạng xã hội với TypeScript.
+- 🎟️ Movie-Ticket-Booking-Website – Hệ thống đặt vé xem phim trực tuyến.
+- 💬 chatbot – Chatbot AI hỗ trợ giao tiếp.
+- 🐦 twiter – Mô phỏng nền tảng Twitter đơn giản.
+- ⚡ IoT & Công Nghệ Mới
+- 🔧 ESP32_IOT – Điều khiển thiết bị IoT với ESP32.
 📂 Dự án khác
-🛠️ tro – Dự án thử nghiệm JavaScript.
-
-📝 testne – Ứng dụng TypeScript thử nghiệm.
-
-📚 codedoan – Tổng hợp mã nguồn thực hành.
+- 🛠️ tro – Dự án thử nghiệm JavaScript.
+- 📝 testne – Ứng dụng TypeScript thử nghiệm.
+- 📚 codedoan – Tổng hợp mã nguồn thực hành.
 ---
 
 ## 🛠️ Công Nghệ Thành Thạo
