@@ -25,6 +25,7 @@ Dưới đây là một số dự án tôi đã thực hiện:
 - 🐦 twiter – Mô phỏng nền tảng Twitter đơn giản.
 - ⚡ IoT & Công Nghệ Mới
 - 🔧 ESP32_IOT – Điều khiển thiết bị IoT với ESP32.
+-
 📂 Dự án khác
 - 🛠️ tro – Dự án thử nghiệm JavaScript.
 - 📝 testne – Ứng dụng TypeScript thử nghiệm.
